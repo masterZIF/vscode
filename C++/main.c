@@ -6,7 +6,7 @@ int main()
 
     // 循环，输出0～9
     int i=0;
-    while(i<10){
+    while(i<11){
         printf("%d ", i);
         i+=1;
     }
